@@ -1,0 +1,50 @@
+.head{
+      
+    background-color:white;
+    border:solid;
+     }
+  
+     .note{
+       background-color: red;
+       border: dotted;
+     }
+  
+  .grid {
+    background: darkred;
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: last-baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .camel {
+    border: 1px solid black;
+    background-color:#E8E5E4;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid black;
+    background-color:#E8E5E4;
+  }
+  
+  .cicada {
+    border: 1px solid black;
+  }
+  
+  .panda {
+    border: 1px solid black;
+    background-color:#E8E5E4;
+  }
+  
+  .pigeon {
+    border:  solid black;
+    background-color:#E8E5E4;
+  }
+  
+  .teddy {
+    border: 1px solid black;
+    background-color:#E8E5E4;
+  }
